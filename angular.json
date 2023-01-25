@@ -36,9 +36,7 @@
               }
             ],
             "styles": [
-              "src/styles.less",
-              "node_modules/@prizm-ui/components/src/styles/styles.less",
-              "node_modules/@prizm-ui/components/src/styles/icons/icons.less"
+              "src/styles.less"
             ],
             "scripts": []
           },
